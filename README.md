@@ -1,16 +1,14 @@
-# runescape_app
+# Runescape Quest Listing Flutter App
+A Flutter app to list Oldschool Runescape quests. To get the list, [this](https://github.com/Davidsksilva/osrs-quest-scrapper) webscrapper was used.
 
-A new Flutter project.
+## Running
+Before running the Flutter app, make sure to get the packages and clear the project:
+```
+flutter packages get
+flutter clear
+```
 
-## Getting Started
+## Results
+The application contains a scrolling list of OSRS quests, displaying quest name, length and membership requirement.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![img](./assets/img.png)
