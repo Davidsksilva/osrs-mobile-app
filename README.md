@@ -11,4 +11,5 @@ flutter clear
 ## Results
 The application contains a scrolling list of OSRS quests, displaying quest name, length and membership requirement.
 
-![img](./assets/img.png =250x500)
+
+<img src="./assets/img.png" width="48">
